@@ -1,6 +1,8 @@
-# Front-End Battle 2.0 Submission
+![image2](https://github.com/user-attachments/assets/8ade4edd-f453-4589-9206-92d77a8f0b95)# Front-End Battle 2.0 Submission
 
 This is my complete submission for the Front-End Battle 2.0 competition. The project meets all mandatory requirements and includes additional innovative features.
+
+Live Link: https://front-end-battel-sanskar-lohani.vercel.app/
 
 ## Features Implemented
 
@@ -29,11 +31,9 @@ This is my complete submission for the Front-End Battle 2.0 competition. The pro
 
 ## AI Tools Used
 
+- DeepSeek for Code Generation
 - GitHub Copilot for code suggestions
 - ChatGPT for debugging assistance
+- ChatGPT for image Generation
 
-## How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/frontend-battle.git
+### Made with Love❤ Sanskar Lohani
